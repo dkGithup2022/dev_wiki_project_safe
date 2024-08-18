@@ -48,7 +48,7 @@ gradle multimodule 과 각 모듈/서비스 별 분리/테스트에 대해 다�
 - vector search 를 위한 파이프라이닝 구조 
 - ~~A/B 테스트 구조와 웹로깅 ( TODO )~~
 
-바로가기 : [검색 서비스]()
+바로가기 : [검색 서비스](search.md)
 
 ## 4. 큐 
 

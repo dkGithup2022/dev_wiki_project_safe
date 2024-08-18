@@ -17,16 +17,17 @@
 
 BM25 기반 검색의 디자인에 필요한 내용에 대해 다룹니다. 
 
-tokenizing 을 위한 analyzer spec 과 sorting script 의 기반 내용이 포함되어 있습니ㅏㄷ.
+tokenizing 을 위한 analyzer spec 과 sorting script 의 기반 내용이 포함되어 있습니다.
 
 바로가기 : [BM25디자인](search_bm25.md)
 
 ## Search : vector  
 
+vector search 를 위한 모델과 piplining 에 대해 ㄷ룹니다.
 
+e5 모델의 max_seq 제약을 통과하기 위해 openai api 를 사용한 내용이 있습니다. 
 
-### 1.1 BM25 기반 소팅 기준 설계
-painless script 를 통해 검색
-### 1.2 벡터 검색 설계
+바로가기 :[vector search](search_vector.md)
 
-### 1.4 A/B 테스트 환경 만들기 (진행중 )
+## AB테스트와 웹로깅
+
