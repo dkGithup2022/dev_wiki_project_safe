@@ -53,5 +53,4 @@ cloud front로 외부로 노출한 서비스의 구성은 아래와 같습니다
 
 # 기타 주의 사항
 
-## Cloudfront dns proxy 가 https 설정하는 것을 막아야 하는 경우
 
